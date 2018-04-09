@@ -1,0 +1,58 @@
+label {
+  font-weight: bold;
+}
+
+.addContact {
+  background-color: #edeeef;
+  padding: 20px;
+}
+
+.viewPhonebookSection {
+  background-color: #ffecce;
+  padding: 20px;
+}
+
+.navigation {
+  background-color: #ceffd5;
+  padding: 20px;
+}
+
+input {
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid blue;
+  border-radius: 4px;
+  padding: 6px;
+  width: 40%;
+}
+
+button {
+  width: 100px;
+  margin: 8px 0;
+  background-color: #63a5f9;
+  border: none;
+  border-radius: 4px;
+  padding: 6px;
+  font-weight: bold;
+  color: white;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+th, td {
+  width: 150px;
+  padding: 8px;
+}
+
+th {
+  background-color: black;
+  color: white;
+}
+
+td {
+  background-color: white;
+}
